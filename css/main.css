@@ -3527,7 +3527,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /*	Carousel	*/
 .carousel {
   position: relative;
-  border: 2px solid grey;
+  /* border: 2px solid grey; */
 }
 
 .carousel-caption {
